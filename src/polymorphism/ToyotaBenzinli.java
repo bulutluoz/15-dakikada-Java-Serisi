@@ -13,7 +13,7 @@ public class ToyotaBenzinli extends Toyota{
 
         System.out.println("Toyota Benzinli araclar ortalama 6.8  lt benzin kullanilir");
 
-        if (maxTuketim<6.8){
+        if (maxTuketim>6.8){
             System.out.println("benzinli bir Toyota alabilirsiniz");
         } else {
             System.out.println("Isteginize uygun benzinli bir Toyota bulamazsiniz");
