@@ -1,11 +1,22 @@
 package abstractClasses;
 
-public class Isci extends Muhasebe {
+public class Isci extends Muhasebe{
+
+
+    @Override
+    protected int saatUcreti() {
+        return 10;
+    }
+
+    @Override
+    protected int aylikCalismaSuresi() {
+        return 200;
+    }
 
     @Override
     public String toString() {
         return "Isci{" +
-                "sirketIsmi=" + sirketIsmi +
+                "sirket ismi=" + sirketIsmi +
                 ", saatUcreti=" + saatUcreti +
                 ", aylikCalismaSuresi=" + aylikCalismaSuresi +
                 ", maas=" + maas +
@@ -20,38 +31,13 @@ public class Isci extends Muhasebe {
     }
 
     public static void main(String[] args) {
+
         Isci isci1=new Isci();
-        isci1.aylikCalismaSuresi=isci1.aylikCalismaSuresi();
-        isci1.iseBaslamaTarihi="10.04.2022";
-        isci1.isim="Mehmet";
         isci1.saatUcreti= isci1.saatUcreti();
-        isci1.maas=isci1.maas(isci1.saatUcreti, isci1.aylikCalismaSuresi);
-        isci1.personelNo=isci1.personelNo();
-        isci1.sigortaNo="123456";
-        isci1.soyisim="Bulutluoz";
-        isci1.tcNo="2365478965";
+        isci1.aylikCalismaSuresi= isci1.aylikCalismaSuresi();
+        isci1.maas= isci1.maas(isci1.saatUcreti, isci1.aylikCalismaSuresi);
+        isci1.isim="Hasan";
+        isci1.soyisim="Can";
         System.out.println(isci1);
-
-
     }
-
-
-    @Override
-    protected int saatUcreti() {
-        return 10;
-    }
-
-    @Override
-    protected int aylikCalismaSuresi() {
-        return 200;
-    }
-
-
-
-
-
-
-
-
-
 }
