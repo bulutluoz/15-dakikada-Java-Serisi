@@ -52,5 +52,6 @@ public class Depo {
 
     public static void projeDurdur() {
         System.out.println("Okul projesinden ciktiniz");
+        System.exit(0);
     }
 }

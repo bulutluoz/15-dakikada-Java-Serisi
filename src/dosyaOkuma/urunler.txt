@@ -1,0 +1,162 @@
+1) MOBILYA
+- Oturma grubu
+- Yemek odasi takimi
+- Yatak odasi takimi
+- Kutuphane
+- Calisma masasi
+- Sehpa/ Zigon sehpa takimi
+- Banyo dolabi
+- Mutfak dolabi
+- Ayakkabi dolabi
+- Televizyon sehpasi
+- Boy aynasi
+- Vestiyer
+- Mutfak masasi ve sandalyeleri
+2) BEYAZ ESYA
+- Buzdolabi
+- Bulasik makinesi
+- Camasir makinesi
+- Camasir kurutma makinesi
+- Sofben
+- Firin
+- Mini firin
+- Mikrodalga firin
+- Klima
+- Aspirator
+- Kombi
+- Klima
+3) ELEKTRIKLI EV ALETLERI
+- Televizyon
+- Vcd/Dvd player
+- Muzik seti
+- Video kamera
+- Bilgisayar
+- Telefon
+- Elektrik supurgesi
+- Radyo/Calar saat
+- Utu
+- Sac kurutma makinesi
+- Vantilator
+- Digital fotograf makinesi
+- Tost Makinesi
+- Ekmek kizartma makinesi
+- Fritoz
+- Kahve/Cay makinesi
+- Kettle/ Su isitici
+- Mikser/Blender/Mutfak robotu
+4) MUTFAK GERECLERI
+- Caydanlik/Termos
+- Mutfak tartisi
+- Konserve acacagi/Tirbuson
+- Ekmek kutusu
+- Ekmek tahtasi
+- Cezve takimi
+- Rende
+- Kek kalibi
+- Makarna suzgeci
+- Sarimsak ezici
+- Ceviz/Findik Kıracagi
+- Nihale
+- Meyve suyu sikacagi
+- Kek kaliplari
+- Saklama kaplari/Erzak kavanozlari
+- Baharat seti
+- Cay suzgeci
+- Yumurta cirpici/Yumurta Fircasi
+- Patates/sogan sepetleri
+- Cop kutusu
+5) YEMEK TAKIMI
+- Duz servis tabaklari
+- Cukur tabaklar
+- Salata/tatli tabaklari
+- Kayik tabaklar
+- Corba kaseleri
+- Meyve tabagi
+- Salata kasesi
+- Sosluk
+- Corba tenceresi
+- Kurdanlik
+- Tuzluk/Biberlik
+- Yagdanlik/Sirkelik
+6) CATAL BICAK TAKIMI
+- Yemek bicagi/ kasigi/ catali
+- Kahvalti bicagi/ kasigi/ catali
+- Balik bicagi/ catali
+- Servis kasigi/ catali/ bicagi/ masasi
+- Tahta kasik ve spatula
+- Bicak seti
+- Seker masasi
+- Cay kasiklari
+- Kepceler
+7) EV TEKSTILI
+- Gunluk yemek ortusu ve peceteleri
+- Ozel gunler icin yemek ortusu ve peceteler
+- Amerikan servisler
+- Sehpa ortuleri
+- Nevresim takimlari
+- Yatak ortusu
+- Battaniye
+- Yorgan/pike/yastik
+- Perde
+- Bornoz, El ve yuz havlulari, Vucut havlulari, ayak havlusu, misafir havlusu
+- Lif, kese ve sabunluk
+- Klozet takimi, Makine ortusu
+- Banyo paspasi
+- Mutfak onlugu
+- Firin Tutacagi
+8) SERVIS TAKIMI
+- Su bardagi
+- Cay bardagi
+- Kahve fincani
+- Turk kahvesi fincani
+- Sampanya/ Raki/ Sarap/ Bira bardaklari
+- Pasta tabagi
+- Kremalik
+- Sekerlik
+- Kahvaltilik kaplar
+- Ekmek sepeti
+- Servis tepsisi
+- Kapakli kek tabagi
+- Pecetelik
+- Buz kovasi ve masasi
+9) TENCERE/ TAVA
+- Duduklu tencere
+- Kizartma tenceresi
+- Barbeku/mangal
+- Celik tencere takimi
+- Teflon tava takimi
+- Pyrex (Borcam) takimi
+- Guvec kaplari
+10) BANYO GERECLERI
+- Sabunluk
+- Dis fircalik
+- Lavabo fircasi
+- Tarti
+- Sac kurutma makinesi
+- Cop kutusu
+- Camasir sepeti
+- Temizlik Kovasi/ Fircasi
+11) AKSESUARLAR
+- Hali ve Kilim
+- Lamba
+- Abajur
+- Vazo ve Saksi
+- Tablo ve Resim cercevesi
+- Aynalar
+- Duvar ve masa saati
+- Kul tablasi
+- Samdan ve mumlar
+- Cd'lik
+12) EV GERECLERI
+- Alet cantasi
+- Ilkyardim cantasi/ Ecza dolabi
+- Seyahat cantasi
+- Supurge/faras
+- Paspas
+- Merdiven
+- Utu masasi
+- Camasir kurutmalik aski
+- Camasir sepeti/ Mandallar
+- Piknik sepeti
+- Elbise askisi
+- Dikis kutusu

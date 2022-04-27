@@ -48,15 +48,14 @@ public class Ogretmen {
                     break ;
                 case "5" : // Kimlik No Ile Kayit Silme
                     tcNoIleOgretmenSil();
-
                     break ;
                 case "a" :
                 case "A" :
                     Depo.anaMenu();
-                    break ;
+                    break;
                 case "q" :
                 case "Q" :
-                    break ;
+                    break;
                 default :
                     System.out.println("Lutfen gecerli tercih yapiniz");
             }
