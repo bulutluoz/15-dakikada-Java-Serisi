@@ -27,6 +27,7 @@ public class Depo {
                 Ogretmen.ogretmenMenu();
                break;
             case "3" :  // ogrenci menu
+                Ogrenci.ogrenciMenu();
                break;
             case "q" :
             case "Q" :

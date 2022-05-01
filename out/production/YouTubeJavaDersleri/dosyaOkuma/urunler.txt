@@ -147,7 +147,7 @@
 - Kul tablasi
 - Samdan ve mumlar
 - Cd'lik
-123) EV GERECLERI
+12) EV GERECLERI
 - Alet cantasi
 - Ilkyardim cantasi/ Ecza dolabi
 - Seyahat cantasi
