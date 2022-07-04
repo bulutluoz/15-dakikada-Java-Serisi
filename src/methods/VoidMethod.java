@@ -1,7 +1,4 @@
 package methods;
-
-import java.sql.SQLOutput;
-
 public class VoidMethod {
     public static void main(String[] args) {
         /*
@@ -16,31 +13,6 @@ public class VoidMethod {
         boolean uyeMi=false;
         int uyelikYili=13;
         double satisFiyati=250;
-
-        indirimliFiyatHesapla(uyeMi,uyelikYili,satisFiyati);
-
-
-
-
-    }
-
-    public static void indirimliFiyatHesapla(boolean uyeMi, int uyelikYili, double satisFiyati){
-        if (uyeMi){
-            if (uyelikYili<5){
-                System.out.println("Urun fiyati : " + satisFiyati);
-                System.out.println("Indirim Miktari : " + satisFiyati*0.1);
-                System.out.println("Indirimli fiyat : " + (satisFiyati-satisFiyati*0.1));
-            }else {
-                System.out.println("Urun fiyati : " + satisFiyati);
-                System.out.println("Indirim Miktari : " + satisFiyati*0.15);
-                System.out.println("Indirimli fiyat : " + (satisFiyati-satisFiyati*0.15));
-            }
-
-        }else {
-            System.out.println("Urun fiyati : " + satisFiyati);
-            System.out.println("Indirim Miktari : " + satisFiyati*0.05);
-            System.out.println("Indirimli fiyat : " + (satisFiyati-satisFiyati*0.05));
-        }
 
     }
 
